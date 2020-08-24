@@ -15,6 +15,8 @@ The canonball would bounce if it hits the stone. If hitted by a canonball, a gho
 
 ![Horizontal Bounce](HorizontalBounce.gif)
 
+![Vertical Bounce](TopBounce_001.gif)
+
 Ghosts are spawned at random locations left of the stonehenge. Each ghost is represented by lines and points, as illustrated below. The motion of the ghost is modelled with **Verlet Integration**, under which constraints are enforced on each point relative to other points. This gives the ghost a floppy appearance, while maintaining its recognizable structure.
 
 ![ghost design](Ghost_annotated_v2.png)
