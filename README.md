@@ -21,5 +21,5 @@ Ghosts are spawned at random locations left of the stonehenge. Each ghost is rep
 
 ![ghost design](Ghost_annotated_v2.png)
 
-
+![GhostRes_001](GhostRes_001.gif)
 
